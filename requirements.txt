@@ -1,0 +1,2 @@
+geopy
+mysql-connector-python
